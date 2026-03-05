@@ -1,0 +1,40 @@
+# Java
+*.class
+*.jar
+*.war
+*.ear
+*.log
+
+# IDE
+.idea/
+.eclipse/
+.vscode/
+*.iml
+*.ipr
+*.iws
+
+# OS
+.DS_Store
+Thumbs.db
+
+# 설정 파일 (개인별 수정 필요)
+db.properties
+
+# 컴파일된 클래스 파일
+src/*.class
+
+# 로그 파일
+*.log
+
+# 임시 파일
+*.tmp
+*.temp
+
+# Maven/Gradle
+target/
+build/
+.gradle/
+
+# 백업 파일
+*.bak
+*.backup
